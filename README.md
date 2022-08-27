@@ -14,4 +14,4 @@ npm start
 
 After run code, access localhost:3030
 
-[](https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic)
+![node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic)
